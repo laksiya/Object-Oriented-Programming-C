@@ -1,0 +1,4 @@
+﻿  mastermind.cpp
+c:\users\bab\documents\visual studio 2015\projects\oving_5\oving_5\mastermind.cpp(49): warning C4101: 'minst': unreferenced local variable
+  Oving_5.vcxproj -> C:\Users\BAB\documents\visual studio 2015\Projects\Oving_5\Debug\Oving_5.exe
+  Oving_5.vcxproj -> C:\Users\BAB\documents\visual studio 2015\Projects\Oving_5\Debug\Oving_5.pdb (Partial PDB)

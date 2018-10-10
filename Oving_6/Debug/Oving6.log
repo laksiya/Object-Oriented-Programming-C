@@ -1,0 +1,30 @@
+﻿  Meeting.cpp
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): error C2662: 'Campus Meeting::getCampusLocation(void)': cannot convert 'this' pointer from 'const Meeting' to 'Meeting &'
+  c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): note: Conversion loses qualifiers
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): error C2662: 'int Meeting::getstartTime(void)': cannot convert 'this' pointer from 'const Meeting' to 'Meeting &'
+  c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): note: Conversion loses qualifiers
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): error C2662: 'int Meeting::getendTime(void)': cannot convert 'this' pointer from 'const Meeting' to 'Meeting &'
+  c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): note: Conversion loses qualifiers
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): error C2662: 'const Person *Meeting::getleader(void)': cannot convert 'this' pointer from 'const Meeting' to 'Meeting &'
+  c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(100): note: Conversion loses qualifiers
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(101): error C2662: 'std::vector<std::string,std::allocator<_Ty>> Meeting::getParticipantsList(void)': cannot convert 'this' pointer from 'const Meeting' to 'Meeting &'
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(101): note: Conversion loses qualifiers
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(102): warning C4018: '<=': signed/unsigned mismatch
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(110): warning C4018: '<=': signed/unsigned mismatch
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(111): warning C4018: '<=': signed/unsigned mismatch
+c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(113): error C2664: 'void std::vector<Person *,std::allocator<_Ty>>::push_back(Person *const &)': cannot convert argument 1 from 'const Person *' to 'Person *&&'
+          with
+          [
+              _Ty=Person *
+          ]
+  c:\users\bab\documents\visual studio 2015\projects\oving6\oving6\meeting.cpp(113): note: Conversion loses qualifiers
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...

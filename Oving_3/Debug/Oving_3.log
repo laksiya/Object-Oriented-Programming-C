@@ -1,0 +1,4 @@
+﻿  cannonball.cpp
+c:\users\bab\documents\visual studio 2015\projects\oving_3\oving_3\cannonball.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Oving_3.vcxproj -> C:\Users\BAB\Documents\Visual Studio 2015\Projects\Oving_3\Debug\Oving_3.exe
+  Oving_3.vcxproj -> C:\Users\BAB\Documents\Visual Studio 2015\Projects\Oving_3\Debug\Oving_3.pdb (Partial PDB)
